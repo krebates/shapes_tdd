@@ -13,7 +13,7 @@ class Square
   end
 
   def area
-    @area = @side * @side
+    @area = @side**2
   end
 
 end
