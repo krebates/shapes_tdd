@@ -5,6 +5,7 @@ class Square
   def initialize(side)
     @side = side
     perimeter
+    area
 
   end
 
